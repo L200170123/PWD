@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type='text/css' href='data.css'?>
+<Mahasiswa>
+<ID>
+<NIM>L00080001</NIM>
+<Nama>agus julianto</Nama>
+<Kota>Solo</Kota>
+</ID>
+
+<ID>
+<NIM>L00080002</NIM>
+<Nama>agus</Nama>
+<Kota>boyolali</Kota>
+</ID>
+
+<ID>
+<NIM>L00080003</NIM>
+<Nama>fatimah</Nama>
+<Kota>Solo</Kota>
+</ID>
+
+<ID>
+<NIM>L00080004</NIM>
+<Nama>eak yulianto</Nama>
+<Kota>klaten</Kota>
+</ID>
+
+<ID>
+<NIM>L00080005</NIM>
+<Nama>paijo</Nama>
+<Kota>Solo</Kota>
+</ID>
+
+</Mahasiswa>
